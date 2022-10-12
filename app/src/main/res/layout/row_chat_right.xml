@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:id="@+id/messagelayout"
+    android:padding="10dp">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:id="@+id/profileIv"
+            app:civ_border_color="@null"
+
+
+            android:src="@drawable/ic_default_img"/>
+
+
+
+        <TextView
+            android:id="@+id/messageTv"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_toEndOf="@+id/TimeTv"
+            android:layout_toRightOf="@+id/TimeTv"
+
+
+            android:textSize="16sp"
+            android:textColor="@color/black"
+            android:background="@drawable/bg_sender"
+            android:padding="15dp"
+            android:text="His Message"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+        <ImageView
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:id="@+id/messageIv"
+            android:adjustViewBounds="true"
+            android:padding="15dp"
+            android:scaleType="fitCenter"
+            android:background="@drawable/bg_sender"
+            android:src="@drawable/ic_image_black"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+
+
+            />
+
+
+    </RelativeLayout>
+    <TextView
+
+        android:id="@+id/TimeTv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="05/o7/2022 1:30"
+        android:textColor="@color/black"
+        android:textSize="12sp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/IsSeenTv"
+        android:gravity="end"
+        android:textAlignment="textEnd"
+        android:text="delivered"
+        />
+
+
+</LinearLayout>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.3078125" />
+        <entry key="app/src/main/res/drawable-anydpi/ic_default_attach.xml" value="0.2085" />
+        <entry key="app/src/main/res/drawable-anydpi/ic_menu_search.xml" value="0.165" />
+        <entry key="app/src/main/res/drawable-anydpi/ic_room_video.xml" value="0.146" />
+        <entry key="app/src/main/res/drawable-mdpi/bg_receiver.xml" value="0.165" />
+        <entry key="app/src/main/res/drawable-mdpi/bg_sender.xml" value="0.165" />
+        <entry key="app/src/main/res/drawable/btn_back.xml" value="0.1555" />
+        <entry key="app/src/main/res/drawable/circle_offline.xml" value="0.2085" />
+        <entry key="app/src/main/res/drawable/circle_online.xml" value="0.2085" />
+        <entry key="app/src/main/res/layout/activity_chat.xml" value="0.181707763671875" />
+        <entry key="app/src/main/res/layout/activity_dashboard.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_group_chat.xml" value="0.24889678955078126" />
+        <entry key="app/src/main/res/layout/activity_group_create.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/activity_group_info.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/activity_profile.xml" value="0.2953125" />
+        <entry key="app/src/main/res/layout/activity_register.xml" value="0.2953125" />
+        <entry key="app/src/main/res/layout/activity_splashactivity.xml" value="0.15572916666666667" />
+        <entry key="app/src/main/res/layout/activity_there_profile.xml" value="0.15572916666666667" />
+        <entry key="app/src/main/res/layout/activity_videocall.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/dialog_update_password.xml" value="0.3379562377929687" />
+        <entry key="app/src/main/res/layout/fragment_chatlist.xml" value="0.15572916666666667" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.14583333333333334" />
+        <entry key="app/src/main/res/layout/fragment_profile.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_room.xml" value="0.2543822146216332" />
+        <entry key="app/src/main/res/layout/fragment_users.xml" value="0.14583333333333334" />
+        <entry key="app/src/main/res/layout/row_chat_left.xml" value="0.15572916666666667" />
+        <entry key="app/src/main/res/layout/row_chat_right.xml" value="0.37372843424479185" />
+        <entry key="app/src/main/res/layout/row_chatlist.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/row_groupchat_left.xml" value="0.2543822146216332" />
+        <entry key="app/src/main/res/layout/row_groupchat_right.xml" value="0.2543822146216332" />
+        <entry key="app/src/main/res/layout/row_groupchats_list.xml" value="0.5110397338867188" />
+        <entry key="app/src/main/res/layout/row_users.xml" value="0.15572916666666667" />
+        <entry key="app/src/main/res/menu/menu_main.xml" value="0.335" />
+        <entry key="app/src/main/res/menu/menu_nav.xml" value="0.14583333333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
